@@ -1,0 +1,16 @@
+[
+{
+  "modid": "miscitems",
+  "name": "MiscItems",
+  "description": "Mod with smaller interesting items that are to stay.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Varijon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
